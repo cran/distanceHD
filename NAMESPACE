@@ -1,0 +1,2 @@
+export("dist_cen", "dist_mah", "dist_mdp")
+import(MASS, stats)
