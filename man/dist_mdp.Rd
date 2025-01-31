@@ -2,7 +2,7 @@
 \alias{dist_mdp}
 \alias{dist_md}
 \title{
-ridge Mahalanobis distance between two groups
+Maximal data piling (MDP) distance between two groups
 }
 \description{
 Calculate the MDP (maximal data piling) distance between two groups in a high-dimensional space (d > n), with support for a single-member cluster. It also works in low-dimensional settings.

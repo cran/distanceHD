@@ -1,9 +1,9 @@
-0a59fd9ebbd91ea0902a1d0b04372f99 *DESCRIPTION
+9f5fbf690a24fe0123a1384e6d058cd0 *DESCRIPTION
 50066fa5694fc097fc91ab4d520fcd3d *NAMESPACE
 d47d313979dbe6145430e5456c7c8fb9 *R/distanceHD.R
 c8a3ec8eca383794858447df90c91682 *data/leukemia.RData
 c2cff747c858211cebfd8dcb1e3e54c1 *man/dist_cen.Rd
 b49866a49de152e582d204ff05f36b4e *man/dist_mah.Rd
-653665b96e7cb098aa5cbef6bc54a920 *man/dist_mdp.Rd
+3781334a1797536b181c0ef201735dc0 *man/dist_mdp.Rd
 35380fa246b0630160659a19c6bb033b *man/distanceHD-package.Rd
 32e3c17ffb7426d4dc46c045384b1b44 *man/leukemia.Rd
