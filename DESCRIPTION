@@ -1,27 +1,25 @@
 Package: distanceHD
 Type: Package
 Title: Distance Metrics for High-Dimensional Clustering
-Version: 1.2
-Date/Publication: 2025-01-31 16:50:11 UTC
-Authors@R: c(person(
-    given = "Jung Ae",
-    family = "Lee",
-    role = c("aut", "cre"),
-    email = "jungaeleeb@gmail.com"
-  ),
-  person(
-    given = "Jeongyoun",
-    family = "Ahn",
-    role = "aut",
-    email = "jyahn@kaist.ac.kr"
-  ))
-Maintainer: Jung Ae Lee <jungaeleeb@gmail.com>
-Description: We provide three distance metrics for measuring the separation between two clusters in high-dimensional spaces. The first metric is the centroid distance, which calculates the Euclidean distance between the centers of the two groups. The second is a ridge Mahalanobis distance, which incorporates a ridge correction constant, alpha, to ensure that the covariance matrix is invertible. The third metric is the maximal data piling distance, which computes the orthogonal distance between the affine spaces spanned by each class. These three distances are asymptotically interconnected and are applicable in tasks such as discrimination, clustering, and outlier detection in high-dimensional settings.
+Version: 1.4
+Date: 2026-10-18
+Authors@R: c(person(given = "Jung Ae",
+                    family = "Lee",
+                    role = c("aut", "cre"),
+                    email = "jungaeleeb@gmail.com"),
+             person(given = "Jeongyoun",
+                    family = "Ahn",
+                    role = "aut",
+                    email = "jyahn@kaist.ac.kr"))
+Description: We provide three distance metrics for measuring the separation between two clusters in high-dimensional spaces. The first metric is the centroid distance, which calculates the Euclidean distance between the centers of the two groups. The second is a ridge Mahalanobis distance, which incorporates a ridge correction constant, alpha, to ensure that the covariance matrix is invertible. The third metric is the maximal data piling distance, which computes the orthogonal distance between the affine spaces spanned by each class. These three distances are asymptotically interconnected and are applicable in tasks such as discrimination, clustering, and outlier detection in high-dimensional settings. The package also provides a distance-based outlier detection procedure for high-dimensional, low-sample-size data, as described in Ahn, Lee and Lee (2018).
 License: GPL (>= 2)
 Depends: R (>= 3.5.0), MASS
+Imports: graphics, stats
 Encoding: UTF-8
 NeedsCompilation: no
-Packaged: 2025-01-31 16:28:44 UTC; jungae
+Packaged: 2026-10-18 14:18:50 UTC; jungae
 Author: Jung Ae Lee [aut, cre],
   Jeongyoun Ahn [aut]
+Maintainer: Jung Ae Lee <jungaeleeb@gmail.com>
 Repository: CRAN
+Date/Publication: 2026-10-18 15:10:08 UTC

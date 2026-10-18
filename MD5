@@ -1,9 +1,12 @@
-9f5fbf690a24fe0123a1384e6d058cd0 *DESCRIPTION
-50066fa5694fc097fc91ab4d520fcd3d *NAMESPACE
-d47d313979dbe6145430e5456c7c8fb9 *R/distanceHD.R
-c8a3ec8eca383794858447df90c91682 *data/leukemia.RData
+c66831e50f8be3d3a7e34dffefefc123 *DESCRIPTION
+2a93b6b89f4db078b5cc191f3a533833 *NAMESPACE
+f6d05c4c915862bcbad726af8111ea6a *R/distanceHD.R
+4daa300ccd145b0bd6bd36b2973ff53d *data/leukemia.RData
+55893b2b73c654f2ee7d7d834f363d13 *data/simdata.RData
+10a8b36a80749da94da32e5ac18bf7bf *man/HDout.Rd
 c2cff747c858211cebfd8dcb1e3e54c1 *man/dist_cen.Rd
 b49866a49de152e582d204ff05f36b4e *man/dist_mah.Rd
 3781334a1797536b181c0ef201735dc0 *man/dist_mdp.Rd
-35380fa246b0630160659a19c6bb033b *man/distanceHD-package.Rd
+7078f72c62c13542312d30899664015b *man/distanceHD-package.Rd
 32e3c17ffb7426d4dc46c045384b1b44 *man/leukemia.Rd
+671cf5539acedde4d24bf8107e486bad *man/simdata.Rd

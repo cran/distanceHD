@@ -1,2 +1,2 @@
-export("dist_cen", "dist_mah", "dist_mdp")
-import(MASS, stats)
+export("dist_cen", "dist_mah", "dist_mdp", "HDout")
+import(MASS, stats, graphics)
